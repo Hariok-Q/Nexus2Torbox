@@ -48,4 +48,9 @@ script are submitted to TorBox.
 ## Compatibility
 
 The script is designed for Violentmonkey and other userscript managers that
-support the classic `GM_*` APIs used in the metadata block.
+support `GM.xmlHttpRequest` or the classic `GM_xmlhttpRequest` API.
+
+For a smoother Nexus Mods download flow, we recommend **Nexus No Wait ++**
+([GitHub](https://github.com/torkelicious/nexus-no-wait-pp),
+[Greasy Fork](https://greasyfork.org/en/scripts/519037-nexus-no-wait)).
+Nexus2Torbox is compatible with it, so both userscripts can run together.
