@@ -25,7 +25,8 @@ button sends the selected mod or file to your TorBox account as a web download.
    [TorBox settings](https://torbox.app/settings) and select **Save**.
 
 If no key has been configured, clicking a TorBox button opens the settings
-dialog automatically.
+dialog automatically. The same menu can be used to replace or clear the saved
+key.
 
 ## Usage
 
