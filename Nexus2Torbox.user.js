@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         Nexus2Torbox
-// @namespace    Nexus2Torbox
+// @namespace    https://github.com/Hariok-Q/Nexus2Torbox
 // @version      1.0.0
+// @author       Hariok-Q
 // @description  Add Nexus Mods downloads to TorBox.
+// @license      MIT
 // @homepageURL  https://github.com/Hariok-Q/Nexus2Torbox
 // @supportURL   https://github.com/Hariok-Q/Nexus2Torbox/issues
 // @downloadURL  https://raw.githubusercontent.com/Hariok-Q/Nexus2Torbox/main/Nexus2Torbox.user.js

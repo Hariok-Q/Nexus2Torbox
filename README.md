@@ -17,8 +17,8 @@ button sends the selected mod or file to your TorBox account as a web download.
 
 1. Install a userscript manager such as
    [Violentmonkey](https://violentmonkey.github.io/).
-2. Open [`Nexus2Torbox.user.js`](./Nexus2Torbox.user.js), select **Raw**, and
-   approve the installation prompt from your userscript manager.
+2. Open [Nexus2Torbox on Greasy Fork](https://greasyfork.org/en/scripts/593268-nexus2torbox)
+   and select **Install this script**.
 3. Open the userscript manager menu on a Nexus Mods page and select
    **TorBox API key**.
 4. Paste the API key from your
@@ -50,7 +50,15 @@ script are submitted to TorBox.
 The script is designed for Violentmonkey and other userscript managers that
 support `GM.xmlHttpRequest` or the classic `GM_xmlhttpRequest` API.
 
-For a smoother Nexus Mods download flow, we recommend **Nexus No Wait ++**
+### Recommended companion
+
+**Nexus No Wait ++**
 ([GitHub](https://github.com/torkelicious/nexus-no-wait-pp),
-[Greasy Fork](https://greasyfork.org/en/scripts/519037-nexus-no-wait)).
-Nexus2Torbox is compatible with it, so both userscripts can run together.
+[Greasy Fork](https://greasyfork.org/en/scripts/519037-nexus-no-wait)) is another
+useful userscript to install alongside Nexus2Torbox. It improves Nexus Mods'
+regular download flow without replacing the TorBox integration provided here.
+The two scripts are compatible and can run together.
+
+## License
+
+[MIT](https://github.com/Hariok-Q/Nexus2Torbox/blob/main/LICENSE)
